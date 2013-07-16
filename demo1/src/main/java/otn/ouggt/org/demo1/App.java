@@ -26,6 +26,21 @@ public class App
 		int i = obj.returnSomething(null);
 		System.out.println(i);}
     
-    
+	
+	
+	
+	
+	/* INFINIT RECURSIVE LOOPS
+	 * Código de Google Web Toolkit
+	 * com.google.gwt.user.cliente.uiTabPanel
+	 */
+	
+	class Windget{
+		//attributes, methods and rock and roll
+	}
+	
+	int getWidgetIndex(Windget w) {
+		return getWidgetIndex(w);
+	}
     
 }
