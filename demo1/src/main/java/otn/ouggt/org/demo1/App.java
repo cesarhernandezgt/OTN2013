@@ -2,10 +2,7 @@ package otn.ouggt.org.demo1;
 
 import java.util.List;
 
-/**
- * Hello world!
- *
- */
+
 public class App 
 {
 	/* NULL POINTER DEREFERENCE
@@ -27,8 +24,7 @@ public class App
 	public static void main (String args[]){
 		App obj = new App();
 		int i = obj.returnSomething(null);
-		System.out.println(i);
-	}
+		System.out.println(i);}
     
     
     
