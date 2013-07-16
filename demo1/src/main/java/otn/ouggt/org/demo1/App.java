@@ -6,7 +6,7 @@ import java.util.List;
 public class App 
 {
 	/* NULL POINTER DEREFERENCE
-	 * C—digo de ECLIPSE 3.5RC3
+	 * Codigo de ECLIPSE 3.5RC3
 	 * org.eclipse.update.internal.ui.views.FeatureStateAtion 
 	 */
 	@SuppressWarnings("null")
