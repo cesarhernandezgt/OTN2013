@@ -30,7 +30,7 @@ public class App
 	
 	
 	
-	/* INFINIT RECURSIVE LOOPS
+	/* INFINITE RECURSIVE LOOPS
 	 * Código de Google Web Toolkit
 	 * com.google.gwt.user.cliente.uiTabPanel
 	 */
